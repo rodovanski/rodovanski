@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**rodovanski/rodovanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Boa tarde eu sou
+Aluno n°17 do 2°ano de Técnico em Desenvolvimento de sistemas no CEEP-PG
+## Conhecimentos
+- C
+- C++
+- Javacript
+- HTML
+- Java
+- CSS
+### x nivel 3
+#### x nivel 4
+##### x nivel 6
+###### x nivel 6
