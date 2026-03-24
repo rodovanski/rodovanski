@@ -1,5 +1,5 @@
 # Boa tarde eu sou
-Aluno n°17 do 2°ano de Técnico em Desenvolvimento de sistemas no CEEP-PG
+Luiz Fellipe Rodovanski Carlos n°17 do 2°ano de Técnico em Desenvolvimento de sistemas no CEEP-PG
 ## Conhecimentos
 - C
 - C++
@@ -7,7 +7,4 @@ Aluno n°17 do 2°ano de Técnico em Desenvolvimento de sistemas no CEEP-PG
 - HTML
 - Java
 - CSS
-### x nivel 3
-#### x nivel 4
-##### x nivel 6
-###### x nivel 6
+
